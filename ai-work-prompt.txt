@@ -1,0 +1,107 @@
+Data Analysis:
+
+The dataset has 5,000 entries with 5 data types: what year the student is in, what major the student is pursing, what university the student is attending, what time the student ordered, and what the student ordered.  
+
+The dataset has all four years present.  The huge majority of these students are sophomores and juniors, with 2,273 sophomores and 2,719 juniors.  There were only 3 freshmen and 5 seniors present in the dataset.  Seniors only ordered the Indiana Buffalo Chicken Tacos.  Freshmen ordered 2 sweet potato fries, 2 ultimate grilled cheese sandwich, and 1 breaded pork tenderloin sandwich.  The most popular food item for sophomores is the Indiana Pork Sandwich while the least popular food item for sophomores is the Indiana Corn on the Cob (brushed with garlic butter).  It is the opposite with the juniors.  The most popular food item among juniors appears to be the Indiana Corn on the Cob (brushed with garlic butter) while the least popular item among juniors is the Indiana Corn on the Cob.
+
+The dataset has 20 majors represented.  Chemistry is the most frequent major ordering food with 640 records while Civil Engineering and Fine Arts are the last frequent major ordering food with both having 3 records.  All of the majors are listed here alongside their most popular item and least popular item:
+
+- Civil Engineering (3 entries, most popular item: Indiana Corn on the Cob (brushed with garlic butter), least popular item: Indiana Buffalo Chicken Tacos (3 tacos))
+- Fine Arts (3 entries, most popular item: Fried Catfish Basket, least popular item: Sugar Cream Pie)
+- Philosophy (4 entries, Fried Catfish Basket and Sweet Potato Fries both have 2 records)
+- Mechanical Engineering (11 entries, most popular item: Breaded Pork Tenderloin Sandwich & Indiana Buffalo Chicken Tacos (3 tacos), least popular item: Indiana Corn on the Cob (brushed with garlic butter))
+- Music (21 entries, most popular item: Fried Catfish Basket, least popular item: Indiana Buffalo Chicken Tacos (3 tacos))
+- International Business (29 entries, most popular item: Breaded Pork Tenderloin Sandwich, least popular item: Cornbread Hush Puppies)
+- Sociology (31 entries, most popular item: Fried Catfish Basket, least popular item: Cornbread Hush Puppies, Hoosier BBQ Pulled Pork Sandwich, & Indiana Corn on the Cob (brushed with garlic butter))
+- Accounting (62 entries, most popular item: Indiana Corn on the Cob (brushed with garlic butter), least popular item: Fried Catfish Basket)
+- Psychology (76 entries, most popular item: Fried Catfish Basket, least popular item: Cornbread Hush Puppies)                 
+- Finance (135 entries, most popular item: Indiana Buffalo Chicken Tacos (3 tacos), least popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+- Anthropology (146 entries, most popular item: Hoosier BBQ Pulled Pork Sandwich, least popular item: Indiana Corn on the Cob (brushed with garlic butter))
+- Marketing (239 entries, most popular item: Breaded Pork Tenderloin Sandwich, least popular item: Sweet Potato Fries)
+- Political Science (309 entries, most popular item: Sugar Cream Pie, least popular item: Cornbread Hush Puppies)
+- Business Administration (334 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Indiana Pork Chili)
+- Economics (511 entries, most popular item: Indiana Pork Chili, least popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+- Mathematics (582 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Indiana Pork Chili)
+- Physics (610 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Indiana Pork Chili)
+- Astronomy (619 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Indiana Pork Chili)
+- Biology (635 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Indiana Pork Chili)
+- Chemistry (640 entries, most popular item: Indiana Pork Chili, least popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+              
+The dataset has 10 universities represented.  Butler University has the most amount of students ordering food with 1614 records while DePauw University and Purdue University has the least amount of students ordering food with both only having 1 record each.  All of the universities are listed here alongside their most popular item and least popular item:
+
+- DePauw University (1 entry, there was only 1 entry: Indiana Buffalo Chicken Tacos (3 tacos))
+- Purdue University (1 entry, there was only 1 entry: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+- Valparaiso University (9 entries, most popular item: Sweet Potato Fries, least popular item: Indiana Buffalo Chicken Tacos (3 tacos))
+- Indiana University Bloomington (12 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Sugar Cream Pie)
+- University of Evansville (143 entries, most popular item: Indiana Buffalo Chicken Tacos (3 tacos), least popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+- University of Notre Dame (144 entries, most popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato), least popular item: Fried Catfish Basket, Hoosier BBQ Pulled Pork Sandwich, & Sweet Potato Fries 
+- Indiana University-Purdue University Indianapolis (IUPUI) (682 entries, most popular item: Indiana Buffalo Chicken Tacos (3 tacos), least popular item: Breaded Pork Tenderloin Sandwich)
+- Ball State University (1085 entries, most popular item: Indiana Corn on the Cob (brushed with garlic butter), least popular item: Hoosier BBQ Pulled Pork Sandwich)
+- Indiana State University (1309 entries, most popular item: Hoosier BBQ Pulled Pork Sandwich, least popular item: Indiana Pork Chili)
+- Butler University (1614 entries, most popular item: Indiana Pork Chili, least popular item: Hoosier BBQ Pulled Pork Sandwich)
+
+The range of hours the dataset represents is from 8:00 to 17:00.  The most popular time to order food is at 13:00 with 1316 records and the least popular time to order food is at 17:00 with 4 records.  The busiest time appears to be in the afternoon while the less busier times is in the morning and in the evening.  Here is the full timeline of times that food has been sold alongside the most popular and least popular item being sold in that time:
+
+- 8:00 (8 entries, most popular item: Breaded Pork Tenderloin Sandwich, least popular item: Cornbread Hush Puppies & Fried Catfish Basket)
+- 9:00 (40 entries, most popular item: Breaded Pork Tenderloin Sandwich, least popular item: Indiana Corn on the Cob (brushed with garlic butter) & Indiana Pork Chili)
+- 10:00 (247 entries, most popular item: Breaded Pork Tenderloin Sandwich, least popular item: Indiana Buffalo Chicken Tacos (3 tacos))
+- 11:00 (858 entries, most popular item: Indiana Corn on the Cob (brushed with garlic butter), least popular item: Hoosier BBQ Pulled Pork Sandwich & Indiana Buffalo Chicken Tacos (3 tacos))
+- 12:00 (1314 entries, most popular item: Indiana Corn on the Cob (brushed with garlic butter), least popular item: Hoosier BBQ Pulled Pork Sandwich)
+- 13:00 (1316 entries, most popular item: Hoosier BBQ Pulled Pork Sandwich, least popular item: Indiana Corn on the Cob (brushed with garlic butter))
+- 14:00 (883 entries, most popular item: Hoosier BBQ Pulled Pork Sandwich, least popular item: Indiana Corn on the Cob (brushed with garlic butter))
+- 15:00 (282 entries, most popular item: Sugar Cream Pie, least popular item: Cornbread Hush Puppies & Fried Catfish Basket)
+- 16:00 (49 entries, most popular item: Sweet Potato Fries, least popular item: Ultimate Grilled Cheese Sandwich (with bacon and tomato))
+- 17:00 (4 entries,  there was 4 entries that had 2 entries each: Sugar Cream Pie & Sweet Potato Fries)
+
+There are 10 possible items you can order from the food trucks.  Sugar Cream Pie is the most popular food item with 512 records and the Hoosier BBQ Puller Pork Sandwich is the least popular item with 482 items.  Here is the full list:
+
+- Hoosier BBQ Pulled Pork Sandwich (482 records)
+- Fried Catfish Basket (490 records)
+- Breaded Pork Tenderloin Sandwich (494 items)
+- Indiana Corn on the Cob (brushed with garlic butter) (495 records)
+- Indiana Buffalo Chicken Tacos (3 tacos) (496 records)
+- Ultimate Grilled Cheese Sandwich (with bacon and tomato) (503 records) 
+- Sweet Potato Fries (508 records)
+- Cornbread Hush Puppies (510 records)
+- Indiana Pork Chili (510 records)
+- Sugar Cream Pie (512 records)
+
+Ethical Implications:
+
+There are three areas of implications to consider: Ethical, Business Outcomes, and Technical.
+
+In terms of ethical implications, there are both good and bad implications.  The data collected and utilized can help improve with pattern recognition, more personalization, and identifying general trends in the data.  Analyzing data and identifying its trends can help reduce the amount of unknown information and can even somewhat predict future trends.  However, data collection can also be used for malicious purposes.  Malicious hackers create malware and hopes to either hack or download malware into a system to collect digital information.  Hackers can steal millions and millions of dollars with the right digital information in their hands.  Additionally, data collection can violate privacy.  Advertisements on social media platforms such as Facebook, Instagram, and YouTube are often under scrutiny for collecting data and selling them to advertisements in return for a profit.  Too much data from users can be a powerful tool to have power over.
+
+In terms of business outcomes, the data being collected is a great model to predict future trends.  Data collected can form certain biases which can be helpful for business leaders making decisions for future trends based on the trends in the data collected.  It can help describe what works in the business and what doesn't work.  However, the data collected should also be taken with a grain of salt.  The data collected can be a great tool, it should not the only reason why decisions are made.  Data is not perfect and there will be tons of outliers and unknown patterns that do not fit the general trend of the data.  As a result, data should only be used to aid in the process of making decisions and should not be replied on too heavily.
+
+In terms of technical implications, collecting data, storing data, and data biases is already an important part of modern-day society.  Data collection is already a big part of algorithms.  Algorithms in social media platforms  collect the data of users and then suggest content based on what a user likes with the intent on trying to grab the user's attention as much as possible.  On one hand, it can be a great way to personalize content and remove sources of information that a user does not like.  ON the other hand, too much data can result in privacy concerns since advertisements can use them for targeting their advertisements.  Additionally, digital information can be extremely valuable, especially financial digital information.  There is a reason why cybersecurity is such a critical aspect of technology. In this day and age, information is power.
+
+Predict Model:
+
+I do not know how to build a fully-functioning model in Python, but here is the process I would have taken if I knew how to build one:
+
+1. After analyzing the data, the most popular food item more or less be determined based on year, major, university, and time.  Looking at the different scikit-learn models available, utilizing regression seemed to be the best option for this particular scenario since the artificial intelligence is trying to predict what food item a student will order based on the student's college information.  For this particular model, I would have utilized the Random Forest Classification as my model since it utilizes classification to make predictions on food items based on what major and university the student inputed.
+
+For both the training and testing datasets, the model will leave out the time and year columns.  A student's year is left out because the huge majority of the students in the dataset are either sophomore or juniors and there is not enough entries in the current dataset to determine what freshmen and seniors may order based on previous data.  The time at which a student orders a food item is also left out because it is not appropriate for the context of the student's college experience.  Knowing what university and major a student is in is more helpful to determine a student's college experience rather than what time they ordered.  
+
+There are 5,000 entries in the provided dataset.  The XTern 2024 AI dataset will be split off into two parts: the training dataset and the testing dataset.  Both the training and testing datasets will have the student's university, major, and food item.  The training dataset will have 4,000 entries to train from and the testing dataset will have 1,000 entries.
+
+2. After inputing the dataset, I would design a function where it takes in the student's university and major and it would go through several layers, taking in the most popular item for each university and major, and making predictions based off from that.  
+
+3. After everything has been set up, I would use different metrics to train the model and then pickle it. 
+
+4. I would take the training dataset and allow the model to get a feel on the dataset.  Once enough training has been completed, I would utilize the testing dataset and test it for accuracy, either correcting it if it was wrong or indicating the order was correct.  For the training dataset, the first 4,000 entries would be used.  For the testing dataset, the last 1,000 entries would be used.
+
+Considerations:
+
+I would take in three different types of considerations to see whether this model would work or not:
+
+1. Its overall accuracy
+2. Its accuracy compared to other potential models
+3. The amount of time and resources needed to build the different models
+
+First of all, the overall accuracy is something easy that needs to be considered.  If the model's accuracy does not meet within a certain threshold, then the model is inefficient and a different model will have to be used.  If the model's accuracy is in the acceptable zone, then it can be considered as a potential candidate for the app.
+
+Second, it would also be beneficial if other models were built alongside the first model for comparison purposes.  Having one model can be inefficient since there may not be a way to determine how it would perform compared to other models.  Additionally, the complexity of this particular artificial intelligence for the FoodX AI app does not need to be complex since it is only taking in a few variables and relatively small datasets compared to other giant machine learning projects like Google's AlphaZero or ChatGPT.  Having more than one model can also give FoodX more flexibility on which model to utilize.
+
+Finally, the amount of time and resources required to built the model(s) is also important to consider.  This app only needs to predict whether or not a student's order is correct based on their college experience.  The ideal model is to be lightweight yet accurate enough to perform its job.  If a model takes up too much energy and resources to complete even it does its job, it is inefficient since a different model could have been developed that takes in less resources.  FoodX does not have infinite time and resources to develop a model, so the efficiency of a model and the time and resources needed to build a model needs to be balanced in order to see whether or not this model is working or not.
