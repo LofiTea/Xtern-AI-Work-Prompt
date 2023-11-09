@@ -163,7 +163,6 @@ Second, it would also be beneficial if other models were built alongside the fir
 inefficient since there may not be a way to determine how it would perform compared to other models.  Additionally, the complexity of this 
 particular artificial intelligence for the FoodX AI app does not need to be complex since it only takes in a few variables and relatively small 
 datasets compared to other giant machine learning projects like Google's AlphaZero or ChatGPT.  Having more than one model can also give FoodX more 
-
 flexibility on which model to utilize.
 
 Finally, the amount of time and resources required to build the model(s) is also important to consider.  This app only needs to predict whether or 
